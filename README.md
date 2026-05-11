@@ -1,7 +1,7 @@
-# 𝗡𝗘𝗫𝗨𝗦-𝗠𝗗
+# UNRULLY-KE-MD
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+NEXUS-MD;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+UNRULLY-KE-MD;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
   </a>
 </p>
   
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=NEXUS+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=UNRULLY+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-IGNATIUS_PEREZ-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-UNRULLY_KE-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
  
 
@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254781346242&text=Hello+Nexus+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254104369700&text=Hello+UNRULLY+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
@@ -41,7 +41,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Ignatiusperez/Perez/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK NEXUS-BOT" width="160"></a>
+<a href="https://github.com/Ignatiusperez/Perez/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK UNRULLY-KE-BOT" width="160"></a>
 <p/>
 
   
@@ -80,5 +80,5 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 [MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
 
-Copyright (c) 2025 NEXUS-MD 
+Copyright (c) 2025 UNRULLY-KE-MD 
 
